@@ -1,0 +1,23 @@
+body {
+  margin-top: 50px;
+}
+
+#screen {
+  background-color: pink;
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 10px;
+  height: 20px;
+}
+
+#calculator {
+  padding: 0px 0px 0px 0px;
+}
+
+#calculator .button {
+  background-color: pink;
+  margin-right: 1px;
+}
+
+.row {
+  margin-top: 1px;
+}
